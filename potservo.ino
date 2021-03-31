@@ -24,3 +24,4 @@ void loop()
   servo2.write(pot2);
   delay(10);
 }
+//Video Linki: https://www.youtube.com/watch?v=0f3VBQ_1XAQ
